@@ -10,7 +10,7 @@ Welcome to the second sprint of our project work! This part focuses on enhancing
 
 ### Sprint Objectives:
 
-By the end of this sprint, you should be able to connect your front-end React app to the back-end API. This connection enables data transfer and interaction between the user interface and the server.
+By the end of this sprint, you should be able to connect your front-end React app to the back-end API. Up until now, we've been working on both the front-end (what users see and interact with) and the back-end (the server and database that power our applications) separately. In Sprint 2, we will focus on integrating these two components seamlessly. This integration is essential to ensure that data flows smoothly between the user interface and the server, providing a seamless user experience.
 
 ### Key Milestones:
 
