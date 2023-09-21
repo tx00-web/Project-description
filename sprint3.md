@@ -2,7 +2,7 @@
 
 ### Deadline
 
-- Deadline: Sprint 3 - October 1, 2023, at 23:59
+- Deadline: print 3 - October 8, 2023, at 23:59 (~~Not October 1~~)
 
 ### Overview:
 
