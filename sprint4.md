@@ -4,12 +4,18 @@
 
 - 2023-10-15 at 23:59
 
+### Overview:
 
-<!-- 
+For Sprint 4, we have the following expectations:
 
-Test our applications thoroughly to identify and resolve any issues before deployment. 
+1. **Backend Testing**:
+  - Describe the testing strategy employed, such as unit testing or backend integration testing.
+  - Share test results and how testing contributed to the overall quality and reliability of the application.
 
-It's an opportunity to apply what we've learned about web development and security.
+2. **Deployment**:
+   - Ensure the successful deployment of both the backend and frontend components of the project. 
 
-By the end of Sprint 4, you will have a more robust and secure web application that can be accessed by users on the internet.
--->
+3. **Recommended**: API Server Documentation:
+   - Create documentation for the API server. This should cover most endpoints, request and response structures, authentication methods, and any other relevant information.
+
+ 
