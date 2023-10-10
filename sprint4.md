@@ -4,6 +4,10 @@
 
 - 2023-10-15 at 23:59
 
+
+> Don't forget to include the **contributions** of each team member when you submit the project.
+
+
 ### Overview:
 
 For Sprint 4, we have the following expectations:
